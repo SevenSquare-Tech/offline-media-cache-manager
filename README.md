@@ -4,6 +4,8 @@ offline-media-cache-manager is a Flutter plugin that allows you to cache
 and display network images, SVGs, and Lottie animations with disk
 caching and offline support.
 
+[A Complete Guide to Create a Scalable Offline Media Cache Manager in Flutter.](https://www.sevensquaretech.com/build-offline-media-cache-manager-flutter-with-github-code/)
+
 ---
 
 ✨ Features
